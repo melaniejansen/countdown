@@ -1,12 +1,12 @@
 
 body {
-  background-color: #198c8c;
+  background-color: #2d3e50;
   font-family: 'Oswald', sans-serif;
 }
 
 .container {
   margin: auto;
-  color: #fff;
+  color: #567490;
   text-align: center;
 }
 
@@ -25,10 +25,12 @@ li {
 }
 
 li span {
-  background: #008080;
+  background: #16a086;
+  width: 150px;
   padding: 15px;
   display: block;
   font-size: 3.5em;
-  border: 1px solid #004040;
+  box-shadow: 5px 5px 10px #000;
   border-radius: 5px;
+  color: #fff;
 }
